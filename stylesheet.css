@@ -1,3 +1,12 @@
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
 .top-wrapper {
+    color: white;
+    opacity: 0.8;
     background-image:url(top.png)
+    background-size: cover;
 }

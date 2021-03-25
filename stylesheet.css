@@ -19,3 +19,18 @@ opacity: 0.7;
 .top-wrapper p {
     opacity: 0.7;
 }
+
+.btn {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+}
+
+.twitter {
+    background-color: #55acee;
+}
+
+.instagram {
+    background-color: #D93177;
+}

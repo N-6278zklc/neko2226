@@ -8,6 +8,7 @@
     color: white;
     background-image:url(top.png);
     background-size: cover;
+    font-family: sans-serif;
 }
 
 .top-wrapper h1 {

@@ -1,40 +1,33 @@
 .container {
-    width: 1170px;
-    padding: 0 15px;
-    margin: 0 auto;
+  width: 1170px;
+  padding: 0 auto;
+  margin: 0 auto;
+  height: 500px;
 }
 
 .top-wrapper {
-    color: white;
-    background-image: url(top.png);
-    background-size: cover;
-    font-family: sans-serif;
-}
-
-
-.top-wrapper p {
-    font-weight: bold;
+  padding: 180px 0 100px 0;
+  background-image: url(frame.jpg);
+  background-size: cover;
+  color: #00a096;
+  font-weight: bold;
+  text-align: center;
 }
 
 .btn {
-    padding: 8px 24px;
-    color: white;
-    display: inline-block;
-    opacity: 0.8;
-}
-
-.btn-wrapper {
-    margin: 20px 0;
-}
-
-.btn-wrapper p {
-    margin: 10px 0;
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
 }
 
 .twitter {
-    background-color: #55acee;
+  background-color: #1DA1F2;
 }
 
 .instagram {
-    background-color: #D93177;
+  background-color: #D93177;
+}
+
+.btn-wrapper {
+  margin:5px 0;
 }
